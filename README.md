@@ -3,10 +3,11 @@
 Deployed on Heroku: http://freshmenconnect.herokuapp.com/
 
 
-<img src="screenshots/P.png" width=400>
-<img src="screenshots/Q.png" width=400>
-<img src="screenshots/R.png" width=400>
-<img src="screenshots/S.png" width=400>
+<img src="screenshots/P.png" width=600>
+<img src="screenshots/Q.png" width=600>
+<img src="screenshots/R.png" width=600>
+<img src="screenshots/S.png" width=600>
+<img src="screenshots/T.png" width=600>
   
 Delivered this end-to-end project to the Entrepreneurship-cell of the institute. <br>
 • An Announcement/feed sharing portal made to bride the gap between 500+ <br>
